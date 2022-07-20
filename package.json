@@ -1,0 +1,28 @@
+{
+  "name": "rotas_resilia",
+  "version": "0.0.1",
+  "description": "Sprint da terceira semana do módulo 4 da resilia, trabalhando com rotas get e post.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorAam/Rotas_Resilia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorAam/Rotas_Resilia/issues"
+  },
+  "homepage": "https://github.com/VitorAam/Rotas_Resilia#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "dotenv": "^16.0.1"
+  }
+}
